@@ -1,0 +1,20 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Α‚Μϊÿÿÿÿ8ΥΩΪν1J$bfb278b4-f389-4c30-add6-80e283a59176
+{
+java:S1128"8Remove this unused import 'Library.books.data.BookData'.(ϊΠθ΅8·‘ον1J$630bfa54-98fb-434e-8a8d-99ae74fe8211
+
+java:S1128"DRemove this unused import 'org.springframework.data.domain.Example'.(³Νόÿÿÿÿ8™·‘ον1J$7d146ca3-f65a-4375-a7a8-3021d31ad86f
+‰
+java:S1128"ARemove this unused import 'org.springframework.data.domain.Page'.(βόÿÿÿÿ8™·‘ον1J$31d77c33-129b-4e84-8fb2-e25cd45befee
+
+java:S1128"ERemove this unused import 'org.springframework.data.domain.Pageable'.(‡λ‚Φύÿÿÿÿ8™·‘ον1J$9d5d2ce8-8863-4526-8288-adfe519ea443
+‰
+java:S1128"ARemove this unused import 'org.springframework.data.domain.Sort'.(λÿ€λψÿÿÿÿ8™·‘ον1J$4ac365ad-1043-4abf-a840-e37cceffae96
+•
+java:S1128"RRemove this unused import 'org.springframework.data.repository.query.FluentQuery'.(υ‘Β¬8™·‘ον1J$c788271d-c349-49d1-a51c-e38798aa19a2
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Υλ±Δψÿÿÿÿ8™·‘ον1J$5fc74fa2-7a9a-4441-9afb-741df297b587
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨λέόÿÿÿÿ8·‘ον1J$57b8e312-e87e-49aa-a945-fa0e7539c22c
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Ν8·‘ον1J$daeea7cd-387e-4151-8e1d-600cf883f42d
