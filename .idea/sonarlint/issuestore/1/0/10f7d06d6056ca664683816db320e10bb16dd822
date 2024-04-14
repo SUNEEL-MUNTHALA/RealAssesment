@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÃÚá8­î›Øí1J$9453da4a-9332-426f-b76b-614d1da4f4ce
+™
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8ãÇœØí1J$c4d8e49d-12a9-4266-8f8d-1feb86802030
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ãÇœØí1J$6dea116e-739f-42c8-b8ad-523aa8b835b0

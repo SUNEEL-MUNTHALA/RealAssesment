@@ -1,0 +1,11 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò’•Ÿûÿÿÿÿ8î·ş×í1J$85394d61-4b6e-4941-85d0-db071c6553b3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªè¾õøÿÿÿÿ8ó·ş×í1J$d200c526-41db-46cd-8ac1-aaa75cdcd1f7
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8€¸ş×í1J$eeae72b0-048f-4ad6-b09f-ea192be9fc55
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ò’•Ÿûÿÿÿÿ8…¸ş×í1J$09613819-a306-4e7f-a12a-47595e3875f6
+„
+java:S1854/"<Remove this useless assignment to local variable "userData".(üÂøÿÿÿÿ8¸ş×í1J$eafd05d2-4f99-4e98-9a9f-c829c84ce4e1
+u
+java:S1481/"-Remove this unused "userData" local variable.(üÂøÿÿÿÿ8‘¸ş×í1J$91de8ed7-e1a9-4371-8d85-533d59798b18
