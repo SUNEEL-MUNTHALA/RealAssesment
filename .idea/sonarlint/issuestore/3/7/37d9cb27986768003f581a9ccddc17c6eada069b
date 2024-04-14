@@ -1,8 +1,8 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªè¾õøÿÿÿÿ8ˆž˜Øí1J$02e4e693-e91f-425b-ad2b-eba044da7bc5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªè¾õøÿÿÿÿ8Óçªçí1J$5db4a4ca-8b2d-4e5b-80e7-eac075e5699a
+’
+java:S3655<"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(­»¿B8Â¦«çí1J$9202d7e0-95d0-4cea-8592-096d60809353
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8Šž˜Øí1J$135b056a-ac58-4e0e-aa9b-bc730c62b93e
-
-java:S1854,"<Remove this useless assignment to local variable "bookData".(¸†“¢8ž˜Øí1J$e707c9ee-904a-40f2-8199-631f1768d2c0
-p
-java:S1481,"-Remove this unused "bookData" local variable.(¸†“¢8‘ž˜Øí1J$2c9dcf61-b9fc-47e7-ba51-cb00e657355e
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ãçªçí1J$27fe6032-6ff9-4cae-b9ca-a24e2cc9a2a7
+ˆ
+java:S1128"ERemove this unused import 'com.sun.source.tree.LambdaExpressionTree'.(ÓÄÖÖ8Ò¦«çí1J$c2721c85-e473-4637-9b6b-eb2d3ccb9cd1

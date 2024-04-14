@@ -1,20 +1,10 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Á‚ÌúÿÿÿÿJ$7330c425-4132-4301-ad3c-d777f20764b0
-Ä
-java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã®¸Â8öüù×í1J$8e65a953-de94-46c0-9818-a98eeb057377
-É
-java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ùÃüùÿÿÿÿ8÷üù×í1J$bfa1e1b6-58f6-4fcb-99a3-77e111b72a34
-É
-java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï½Æšıÿÿÿÿ8÷üù×í1J$52e0b956-d1a7-4df0-9561-7641d723edc3
-É
-java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÛ±üÿÿÿÿ8÷üù×í1J$66f6256a-baff-4fda-8fc8-53fc48557452
-Ê
-java:S1186¢"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Æş¤úÿÿÿÿ8÷üù×í1J$f107bd73-d175-47d2-a1a0-19b725654a49
-Å
-java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±Îâ˜8÷üù×í1J$cd94cee1-6d5c-421d-a5ad-2e349e06113c
-Ê
-java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Îİ–Éşÿÿÿÿ8÷üù×í1J$622bd9a4-15f6-493f-a0ab-e3f3de21843e
-Å
-java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬ÈÉË8÷üù×í1J$9a8969b1-d3b4-4ea0-9475-88a4dd52720c
-Å
-java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ç¹Í8÷üù×í1J$9f94e320-b314-425b-a88f-c2a6c5255463
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Á‚Ìúÿÿÿÿ8ØåÚí1J$fb6cd4b6-f94c-4245-8641-d2ec454aad31
+{
+java:S1128"8Remove this unused import 'Library.books.data.BookData'.(úĞè¡8ÖÅçí1J$e5b4b686-2a10-4ae6-ab76-b174bc0372f3
+†
+java:S1128">Remove this unused import 'Library.books.repository.BookRepo'.(œõ”ûÿÿÿÿ8˜•±Üí1J$231742a0-0cdf-4862-afc0-10b2e390390f
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8×Åçí1J$1ba70636-2495-44b9-9e83-4acf303fdd51
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8×Åçí1J$6f5fc125-5222-42ba-8ce8-a504eef10349
