@@ -3,6 +3,7 @@ package Library.books.model;
 import lombok.Data;
 
 import java.time.LocalDateTime;
+
 @Data
 public class UserInput {
     private String userName;

@@ -1,22 +1,30 @@
 package Library.books.service;
 
 import Library.books.data.BookData;
-import org.springframework.data.domain.Example;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.Pageable;
-import org.springframework.data.domain.Sort;
-import org.springframework.data.repository.query.FluentQuery;
+import Library.books.model.BookInput;
+import Library.books.repository.BookRepo;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
-import java.util.Optional;
-import java.util.function.Function;
 
 @Service
 public class BookServiceImpl implements BookService {
 
+    @Autowired
+    BookRepo bookRepo;
 
 
+    @Override
+    public BookData saveBook(BookInput bookInput) {
+        BookData bookData = new BookData();
+        bookData.setName(bookInput.getName());
+        bookData.setLanguage(bookInput.getLanguage());
+        bookData.setGenre(bookInput.getGenre());
+        bookData.setAuthor(bookInput.getAuthor());
+        bookData = bookRepo.save(bookData);
+
+        return bookData;
+
+    }
 }
 
 

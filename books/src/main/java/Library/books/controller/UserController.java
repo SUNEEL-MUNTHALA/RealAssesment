@@ -5,7 +5,14 @@ import Library.books.model.UserInput;
 import Library.books.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -57,7 +64,7 @@ public class UserController {
     }
 
     @PutMapping("/updateUser/{id}")
-    public ResponseEntity<String> updateDetails(@RequestBody UserInput userInput, @PathVariable Long id){
+    public ResponseEntity<String> updateDetails(@RequestBody UserInput userInput, @PathVariable Long id) {
         UserData userData = userRepo.findById(id).get();
         userData.setUserName(userInput.getUserName());
         userData.setPassword(userInput.getPassword());
